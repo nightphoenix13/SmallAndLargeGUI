@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\bin\Debug\SmallAndLargeGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\bin\Debug\SmallAndLargeGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\bin\Debug\SmallAndLargeGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\obj\Debug\SmallAndLargeGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\obj\Debug\SmallAndLargeGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\obj\Debug\SmallAndLargeGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\obj\Debug\SmallAndLargeGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\obj\Debug\SmallAndLargeGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\SmallAndLargeGUI\SmallAndLargeGUI\obj\Debug\SmallAndLargeGUI.pdb
